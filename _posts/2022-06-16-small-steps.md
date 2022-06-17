@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pre Coding一小步"
-image: assets/images/worktime.jpg
+image: assets/images/precoding.jpg
 featured: true
 ---
 # 充电 ｜ 使用Markdown语法搭建网站
@@ -11,4 +11,3 @@ _by 柚子_
 重返博客时代
 > Markdown语法不陌生，了解Markdown语法的过程
 
-![worktime](../assets/images/worktime.jpg)
