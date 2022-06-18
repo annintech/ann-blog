@@ -2,11 +2,11 @@
 baseurl: "/ann-blog"
 
 # 网页的标题
-title: "佳想偶得"
+title: "Ann in Tech"
 # 网站的主标题
-name: "佳想偶得"
+name: "Ann in Tech"
 # 网站副标题
-description: "记录思考碎片"
+description: "心得分享"
 
 # 分页配置
 # 每页文章数量
