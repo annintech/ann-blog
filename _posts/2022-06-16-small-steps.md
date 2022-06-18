@@ -2,8 +2,8 @@
 layout: post
 title:  "Pre Coding一小步"
 image: assets/images/precoding.jpg
-featured: true
 ---
+
 # 学码 ｜ 使用Markdown语法搭建网站
 _by Ann_；_2022年6月18日_ 
 ## from 0 to 1，我的第一堂“编程”课
